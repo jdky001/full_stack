@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DEMO.iml" filepath="$PROJECT_DIR$/DEMO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/login_demo/login_demo.iml" filepath="$PROJECT_DIR$/login_demo/login_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis_demo/mybatis_demo.iml" filepath="$PROJECT_DIR$/mybatis_demo/mybatis_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/swagger_demo/swagger_demo.iml" filepath="$PROJECT_DIR$/swagger_demo/swagger_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/upload/upload.iml" filepath="$PROJECT_DIR$/upload/upload.iml" />
+    </modules>
+  </component>
+</project>
